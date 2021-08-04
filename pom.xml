@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.tech.customerPortal</groupId>
 	<artifactId>customerPortal</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>CustomerPortal</name>
 	<description>Customer Portal API</description>
 	<properties>
