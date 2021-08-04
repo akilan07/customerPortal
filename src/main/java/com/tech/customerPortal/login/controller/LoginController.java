@@ -14,6 +14,7 @@ import com.tech.customerPortal.login.service.LoginService;
 
 
 //Akilan R - author
+//Login controller
 @RestController
 public class LoginController {
 
