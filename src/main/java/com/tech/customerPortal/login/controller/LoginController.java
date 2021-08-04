@@ -13,7 +13,7 @@ import com.tech.customerPortal.login.entity.CustomerPassword;
 import com.tech.customerPortal.login.service.LoginService;
 
 
-//Akilan R
+//Akilan R - author
 @RestController
 public class LoginController {
 
