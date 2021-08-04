@@ -12,7 +12,6 @@ import com.tech.customerPortal.login.entity.Customer;
 import com.tech.customerPortal.login.entity.CustomerPassword;
 import com.tech.customerPortal.login.service.LoginService;
 
-//Akilan R
 @RestController
 public class LoginController {
 
